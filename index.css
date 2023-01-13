@@ -544,6 +544,10 @@ body{
             grid-template-columns: repeat(auto-fit,minmax(120px,1fr));
             grid-auto-rows:50px;     
         }
+        .features{
+            width: 70%;
+            font-size: 14px;
+        }
 
 
     
